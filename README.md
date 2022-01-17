@@ -1,6 +1,6 @@
 # Alphabet_GAN
 
-I tied to generate English and Bengali alphabets with generative adversarial networks.
+We tied to generate English and Bengali alphabets with the help of GAN(generative adversarial networks).
 ## Evolution of generated English alphabets
 ![english alphabets]()
 ## Evolution of generated Bengali alphabets

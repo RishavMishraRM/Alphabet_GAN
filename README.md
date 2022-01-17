@@ -1,6 +1,10 @@
 # Alphabet_GAN
 
 We tied to generate English and Bengali alphabets with the help of GAN(generative adversarial networks).
+
+
+## Data Source
+
 ## Evolution of generated English alphabets
 ![english alphabets](https://github.com/RishavMishraRM/Alphabet_GAN/blob/main/image/eng-gan.gif)
 ## Evolution of generated Bengali alphabets

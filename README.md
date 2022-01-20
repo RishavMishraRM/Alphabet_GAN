@@ -1,6 +1,6 @@
 # Alphabet_GAN
 
-We tied to generate English and Bengali alphabets with the help of GAN(generative adversarial networks).A Generative adversarial network (GAN) is a machine learning (ML) model in which two neural networks compete with each other to become more accurate in their predictions.
+We tried to generate English and Bengali alphabets with the help of GAN(generative adversarial networks).A Generative adversarial network (GAN) is a machine learning (ML) model in which two neural networks compete with each other to become more accurate in their predictions.
 
 
 
